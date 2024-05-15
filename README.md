@@ -16,7 +16,7 @@
 
 ```sh
 cd [ваша директория]
-chmod a+x [путь до файла]
+chmod a+x network_setup.sh
 ./network_setup.sh
 ```
 
